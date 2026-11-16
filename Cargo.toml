@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-core-feature-65"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS core-feature-65 component"
+
+[lib]
+name = "core_feature_65"
+path = "src/lib.rs"
